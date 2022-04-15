@@ -28,6 +28,7 @@ Curso de introdução ao Git, com os seguintes tópicos:
 ### Resolvendo conflitos
 * Como acontece conflitos e como resolvê-los
 
+
 >Instrutor: Otávio Reis
 
 >Bootcamp Carrefour Web Developer
