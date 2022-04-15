@@ -84,3 +84,7 @@ Repositório criado para o desafio de projeto.
 
 **Exibir histórico com diff das duas últimas alterações**
 >git log -p -2
+
+<br/>
+
+>Instrutor: Venilton FalvoJr
