@@ -1,1 +1,3 @@
-hello 
+hello
+
+Arquivo criado via terminal.
