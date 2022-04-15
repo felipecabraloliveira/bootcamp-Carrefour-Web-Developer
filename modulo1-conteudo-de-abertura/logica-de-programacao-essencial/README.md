@@ -17,6 +17,6 @@ Curso de introdução a lógica de programação, com os seguintes tópicos:
 * Laços de repetição
 * Matrizes e Vetores
 
->Professor: Denilson Bonatti
+>Instrutor: Denilson Bonatti
 
 >Bootcamp Carrefour Web Developer
