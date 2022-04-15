@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Felipe Cabral"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-04-12 09:31:10 "/>
+        <attribute name="created" value="RmVsaXBlIENhYnJhbDtERVNLVE9QLTI0VUFEQ1M7MjAyMi0wNC0xMjsiMDk6MTA6MTEgIjszNDQz"/>
+        <attribute name="edited" value="RmVsaXBlIENhYnJhbDtERVNLVE9QLTI0VUFEQ1M7MjAyMi0wNC0xMjsiMDk6MzE6MTAgIjsyOzM1NTQ="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nome, sobrenome" type="String" array="False" size=""/>
+            <declare name="idade" type="Integer" array="False" size=""/>
+            <output expression="&quot;Digite o seu nome: &quot;" newline="True"/>
+            <input variable="nome"/>
+            <output expression="&quot;Digite o seu sobrenome: &quot;" newline="True"/>
+            <input variable="sobrenome"/>
+            <output expression="&quot;Qual &#233; a sua idade: &quot;" newline="True"/>
+            <input variable="idade"/>
+            <output expression="&quot;O seu nome &#233; &quot; &amp; nome &amp; &quot; e o seu sobrenome &#233; &quot; &amp; sobrenome &amp; &quot;, voc&#234; tem &quot; &amp; idade &amp; &quot; anos de idade.&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

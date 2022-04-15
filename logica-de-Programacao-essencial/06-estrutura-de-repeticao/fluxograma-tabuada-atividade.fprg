@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Felipe Cabral"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-04-12 09:43:31 "/>
+        <attribute name="created" value="RmVsaXBlIENhYnJhbDtERVNLVE9QLTI0VUFEQ1M7MjAyMi0wNC0xMjsiMDk6Mzg6MDAgIjszNDUx"/>
+        <attribute name="edited" value="RmVsaXBlIENhYnJhbDtERVNLVE9QLTI0VUFEQ1M7MjAyMi0wNC0xMjsiMDk6NDM6MzEgIjs0OzM1NjI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numero, cont" type="Integer" array="False" size=""/>
+            <assign variable="cont" expression="0"/>
+            <output expression="&quot;Digite qual n&#250;mero voc&#234; quer obter a tabuada: &quot;" newline="True"/>
+            <input variable="numero"/>
+            <while expression="cont &lt;= 10">
+                <output expression="numero &amp; &quot; x &quot; &amp; cont &amp; &quot; = &quot; &amp; numero * cont" newline="True"/>
+                <assign variable="cont" expression="cont+1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

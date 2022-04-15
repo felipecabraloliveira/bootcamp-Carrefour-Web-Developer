@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Felipe Cabral"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-04-12 09:37:57 "/>
+        <attribute name="created" value="RmVsaXBlIENhYnJhbDtERVNLVE9QLTI0VUFEQ1M7MjAyMi0wNC0xMjsiMDk6MzQ6MzcgIjszNDU3"/>
+        <attribute name="edited" value="RmVsaXBlIENhYnJhbDtERVNLVE9QLTI0VUFEQ1M7MjAyMi0wNC0xMjsiMDk6Mzc6NTcgIjsxOzM1NzA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="cont, limite" type="Integer" array="False" size=""/>
+            <assign variable="cont" expression="0"/>
+            <assign variable="limite" expression="20"/>
+            <while expression="cont &lt;= limite">
+                <output expression="&quot;Contagem: &quot; &amp; cont" newline="True"/>
+                <assign variable="cont" expression="cont+2"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
