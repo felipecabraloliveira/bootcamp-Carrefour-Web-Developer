@@ -5,10 +5,8 @@ O Bootcamp Carrefour Web Developer tem como foco principal formar profissionais 
 Duração: :watch:104 horas
 
 * 31 Cursos
-
 * 4 Desafios de Projeto
-
-* 4 Desafios de código
+* 4 Desafios de Código
 
 > ### Módulo I - Conteúdo de Abertura
 
