@@ -1,4 +1,4 @@
-# Módulo II - HTML/CSS3
+# Módulo II - HTML5/CSS3
 
 <br />
 
