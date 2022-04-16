@@ -8,7 +8,7 @@ Criação	Resultado<font color="gray"> (Mentoria live)</font>
  
 > Pensamento Computacional
 
-> Lógica de Programação
+> Lógica de Programação Essencial
 
 > Introdução ao Git e ao GitHub
 
