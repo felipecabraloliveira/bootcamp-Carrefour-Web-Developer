@@ -1,0 +1,17 @@
+Dados Móveis
+
+O celular troca, constantimente, bits com as torres de comunicação.
+
+SMS
+Mensagem de texto, não possui custo para a operadora.
+
+MMS
+Transmissão de mensagens multimídia (áudio, vídeo) por meio de uma espécie de conexão de dados.
+
+Conexões Móveis
+1G (analógico): 10Kbps
+2G (digital): 97Kbps
+3G (digital): 7Mbps
+4G (digital): 22,1Mbps
+5G (digital): 10Gbps
+
