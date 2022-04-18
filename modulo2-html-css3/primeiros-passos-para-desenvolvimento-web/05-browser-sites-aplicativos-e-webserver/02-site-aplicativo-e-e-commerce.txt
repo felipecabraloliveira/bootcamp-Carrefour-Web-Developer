@@ -10,7 +10,6 @@ Aplicativo
 Software que é executado no navegador.
 
 E-commerce
-
 "e", assim como em "e-mail", significa "eletronic"
 Comércio eletrônico.
 
