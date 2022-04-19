@@ -1,5 +1,0 @@
-Browser
-
-Interpreta as linguagens de programação e as transforma em algo compreensível por um humano.
-
-Sabe identificar várias linguagens de programação, linguagem de marcação e conteúdo multimedia.
