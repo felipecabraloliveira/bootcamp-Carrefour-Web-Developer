@@ -1,0 +1,13 @@
+Web Server
+
+Existem 2 tipos: estático e dinâmico.
+
+Web-server dinâmico
+Arquivos (file server)
+Aplicações (aplication server)
+Banco de Dados (databases)
+
+
+Web-service
+
+Interface disponível para fazer requisições e consultas em bancos de dados anacessíveis (Correios, Governo)
