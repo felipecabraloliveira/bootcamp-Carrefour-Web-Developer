@@ -1,0 +1,11 @@
+Semântica
+
+<section> - Uma sessão genérica.
+
+<header> - Cabeçalho
+
+<article> - Conteúdo relevante
+
+<footer> - Rodapé da página
+
+<h1>-<h6> - Títulos separados por importância.

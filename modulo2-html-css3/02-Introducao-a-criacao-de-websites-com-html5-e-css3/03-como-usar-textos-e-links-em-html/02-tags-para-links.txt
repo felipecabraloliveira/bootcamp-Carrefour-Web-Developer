@@ -1,0 +1,7 @@
+Links
+
+<a>Link</a>
+
+href - indica o local que será aberto.
+
+target - como o link será aberto.

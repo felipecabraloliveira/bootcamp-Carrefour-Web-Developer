@@ -1,0 +1,22 @@
+HTML 
+
+O HTML foi criado em 1991 com a versão HTML1 e atualmente estamos no HTML5.
+
+
+Elemento HTML começa com uma Tag de abertura que pode possuir atributos, que alteram funcionalidades, aparências...
+
+
+Estrutura básica
+
+
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta>
+      <title></title>
+   </head>
+   <body>
+   </body>
+</html>
+

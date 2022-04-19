@@ -1,0 +1,55 @@
+Estilizando Textos
+
+
+Fontes:
+#title{
+  font-family: verdana;
+}
+
+#post_title{
+  font-damily: verdana, Arial;
+}
+
+
+
+Tamanho do texto:
+#title{
+  font-style: normal;
+}
+.subtitle{
+  font-style: italic;
+}
+
+
+
+Peso do texto
+#title{
+  font-weight: normal;
+}
+.subtitle{
+  font-weight: bold;
+}
+
+
+Transformar texto em maiúsculo ou minúsculo.
+#title{
+  text-transform: uppercase;
+}
+.subtitle{
+  text-transform: lowercase;
+}
+.post_title{
+  text-transform: capitalize;
+}
+
+
+Destaque ao texto
+#title{
+  text-decoration: underline;
+}
+.subtitle{
+  text-transform: overline;
+}
+.post_title{
+  text-transform: line-through;
+}

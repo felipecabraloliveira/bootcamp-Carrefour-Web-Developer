@@ -1,0 +1,54 @@
+Padding e Margin
+
+
+padding: 10px 5px;
+
+Primeiro valor é o eixo Y(Topo, Inferior) e o segundo é o eixo X (Esquerda/Direita)
+
+
+
+Especificando cada lado:
+
+padding: 15px 10px 5px 0;
+Topo > Direita > Inferior > Esquerda
+
+
+Usando propriedades especificas:
+
+padding-top: 15px;
+padding-right: 10px;
+padding-bottom: 5px;
+padding-left: 0;
+
+
+Background
+
+background-color: green;
+background-color: #008800;
+background: #008000;
+
+
+
+Border
+largura: pixels, centímetros, milímitros...
+cor: blue, #0000ff...
+Estilo: sólida, pontilhada, tracejada...
+
+border: 2px dotted green;
+
+
+Border-radius
+
+Arredonda os cantos dos elementos.
+
+border-radius: 10px;
+border-radius: 50%;
+border-radius: 10% 20%;
+border-radius: 10% 20% 15% 22%;
+
+
+
+
+
+
+

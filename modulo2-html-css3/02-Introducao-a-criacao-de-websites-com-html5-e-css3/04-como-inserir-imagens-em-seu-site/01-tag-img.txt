@@ -1,0 +1,9 @@
+Tag Img
+
+Elemente sem Tag de fechamento.
+
+<img>
+
+<img src="img/avatar.jpg">
+
+<img alt="Foto do curso de criação de website">

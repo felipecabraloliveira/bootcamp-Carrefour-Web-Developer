@@ -1,0 +1,17 @@
+Dimensão e alinhamento
+
+Altura e largura:
+width
+height
+
+Máximo:
+max-width
+max-height
+
+
+Espaçamento entre elementos
+margin
+
+
+Alinhamento de texto
+text align

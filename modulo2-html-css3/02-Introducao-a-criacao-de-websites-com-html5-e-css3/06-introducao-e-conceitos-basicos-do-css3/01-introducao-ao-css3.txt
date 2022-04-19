@@ -1,0 +1,12 @@
+CSS
+
+Linguagem de estilo criada em 1993.
+
+ID x Classe
+
+<header id="header" class="header"> </header>
+<header class="header"></header>
+
+.header{
+   padding:10px;
+}
