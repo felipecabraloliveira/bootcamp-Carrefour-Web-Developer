@@ -73,7 +73,9 @@ Curso de introdução ao desenvolvimento Web, com os seguintes tópicos:
 
 
 
+> Professor: Bruno Prado
 
+> Bootcamp Carrefour Web Developer
 
 
 
