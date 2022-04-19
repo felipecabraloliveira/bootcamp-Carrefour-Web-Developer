@@ -1,0 +1,45 @@
+Introdução à programação para internet
+
+Início da internet foi em 1969, criada pelo Departamento de Defesa dos EUA durante a Guerra Fria, foi batizado como Arpanet.
+
+Em 1982 Universidades começaram a ter acesso a internet.
+
+Em 1987 foi liberado o uso comercial nos EUA.
+
+No ano de 1992 o CERN cria World Wide Web, dados acessíveis a qualquer pessoa com acesso a internet.
+
+No Brasil a internet foi disponibilizada em 1988, através de um acordo entre a FAPESP, UFRJ, LNCC.
+
+Em 1994 a Embratel regulamentou o uso comercial no Brasil por meio de conexão discada.
+
+No ano 2000 chega à banda larga.
+
+Exercício Final
+
+Qual foi o primeiro domínio criado?
+
+R: symbolics.com - O site foi registrado em 15 de março de 1985.
+
+
+E o primeiro Blog?
+
+R: Open Diary, criado por um cientista e pesquisador brasileiro Claúdio Pinhanez.
+
+
+Qual foi a primeira compra feita pela internet?
+
+R: Um CD de Sting (Ten Summoner's Tales). A transação ocorreu a 11 de agosto de 1994.
+
+
+Qual o site mais antigo em atividade?
+
+R: www.symbolics.com - O site mais antigo em atividade é o primeiro a ser registrado.
+
+
+
+
+
+
+
+
+

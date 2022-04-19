@@ -1,0 +1,15 @@
+Site, aplicativo e E-commerce
+
+Site
+Página da internet.
+Diversos propósitos.
+Podem ser feitas em diversas LP
+D/XHTML caindo em desuso
+
+Aplicativo
+Software que é executado no navegador.
+
+E-commerce
+"e", assim como em "e-mail", significa "eletronic"
+Comércio eletrônico.
+

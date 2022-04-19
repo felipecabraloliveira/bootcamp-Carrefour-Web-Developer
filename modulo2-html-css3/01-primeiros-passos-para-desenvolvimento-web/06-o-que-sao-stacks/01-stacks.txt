@@ -1,0 +1,16 @@
+Stacks
+
+Pilhas de tecnologia
+
+Conjunto de softwares necessários e suficientes para executar um aplicativo/programa.
+Linguagens de programação
+Ambientes e ferramentas de interação com o app/sq
+Capacidade e limitação de performance
+pontos fortes e fracos do app/sw
+
+Os líderes precisam das informações das equipes de desenvolvimento.
+Os deves precisam saber as limitações e capacidades das ferramentas e ambientes que têm disponíveis.
+
+Estratégia de negócios
+Maturidade
+Contratações, planos de mitigações de riscos.
