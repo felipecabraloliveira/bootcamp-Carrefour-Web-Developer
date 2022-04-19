@@ -1,0 +1,8 @@
+Termos Comuns 2
+
+Termos não conhecidos:
+
+MVC - Arquitetura de software.
+MVP - Minímo do produto viável
+UI  - User interface
+UX  - User Experience 

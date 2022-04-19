@@ -1,0 +1,16 @@
+Principais LPs
+
+Principais linguagens
+HTML
+CSS
+
+Programação
+JavaScript (jQuery, AJAX, diversas libs)
+PHP
+.NET
+ASP
+Java
+Ruby (on Rails)
+Python
+Perl
+C/C++/C#
