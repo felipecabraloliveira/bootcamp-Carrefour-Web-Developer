@@ -46,6 +46,6 @@ Curso de Bootstrap para criação de Websites, com os seguintes tópicos:
 <br/>
 
 
-> Instrutor: Lucas Vilaboim
+> Professor: Rafael Galleani
 
 > Bootcamp Carrefour Web Developer
