@@ -1,0 +1,162 @@
+@media screen and (max-width:1100px) {
+
+    header .container {
+        background-color: var(--cblack);
+        height: 70px;
+    }
+
+    .descricao {
+        width: 50%;
+    }
+
+    header .logo-menu {
+        width: 80%;
+    }
+
+    .filme-destaque .container {
+        width: 70%;
+    }
+
+}
+
+
+
+
+
+@media screen and (max-width:700px) {
+    .container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    header .container {
+        display: flex;
+        flex-direction: column;
+        background-color: var(--cblack);
+        height: 80px;
+    }
+
+    header .logo-menu {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    header .menu-perfil {
+        position: absolute;
+        top: 2;
+        right: 10px;
+    }
+
+    .filme-destaque {
+        height: 60vh !important;
+    }
+
+    .filme-destaque .container {
+        padding-top: 80px;
+    }
+
+    /* Trailer */
+    .bg-trailer {
+        top: 0;
+        padding-top: 80px;
+        min-height: 60vh !important;
+    }
+
+    .filme-destaque .titulo {
+        margin-top: 10%;
+        font-family: 'Trebuchet MS', Arial, sans-serif;
+        font-size: 40px;
+    }
+
+    .filme-destaque .descricao {
+        font-size: 18px;
+        margin-top: 10px;
+        margin-bottom: 16px;
+    }
+
+    .filme-destaque .botao {
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+
+    .filme-destaque .botao i {
+        margin-right: 8px;
+        font-size: 15px;
+    }
+
+    .volume {
+        position: absolute;
+        padding: 5px;
+        right: 15px;
+        bottom: 40%;
+    }
+
+    .filme-destaque {
+        height: 80vh;
+    }
+
+    .bg-trailer {
+        top: 0;
+    }
+
+    .box-filme {
+        width: 100%;
+        display: block;
+        padding: 15px;
+    }
+
+    .box-filme:hover {
+        width: 100%;
+        padding: 7.5px;
+
+
+    }
+}
+
+@media screen and (max-width:480px) {
+
+
+    header .menu-perfil {
+        display: none;
+    }
+
+    header .logo {
+        margin-left: 0px;
+        font-size: 40px;
+    }
+
+    header .container {
+        height: 100px;
+    }
+
+    header nav {
+        margin-top: 10px;
+    }
+
+    header nav a {
+        color: #ffff;
+        font-size: 14px;
+    }
+
+    .filme-destaque .container {
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.3);
+    }
+
+    .filme-destaque .titulo {
+        font-size: 35px;
+    }
+
+    .filme-destaque .descricao {
+        width: 60%;
+        margin-top: 20px;
+        font-size: 18px;
+    }
+
+    #filmes {
+        padding-top: 40px;
+    }
+
+
+}

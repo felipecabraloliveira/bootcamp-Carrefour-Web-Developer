@@ -52,7 +52,7 @@ header .logo-menu {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 51%;
+    width: 50%;
 }
 
 /** Tratando o logo **/
@@ -218,20 +218,20 @@ header .menu-perfil a:hover {
 }
 
 .top10 {
-    margin-top: 40px;
+    padding-top: 40px;
 }
 
 .series {
-    margin-top: 40px;
+    padding-top: 40px;
 }
 
 .animes {
-    margin-top: 40px;
+    padding-top: 40px;
     margin-bottom: 40px;
 }
 
 .continuar {
-    margin-top: 40px;
+    padding-top: 40px;
 }
 
 .box-filme {
