@@ -1,6 +1,6 @@
 $('.destaque').owlCarousel({
     loop: true,
-    margin: 15,
+    margin: 5,
     dots: false,
     responsive: {
         0: {
