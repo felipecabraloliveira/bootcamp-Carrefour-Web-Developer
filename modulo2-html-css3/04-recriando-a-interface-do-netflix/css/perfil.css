@@ -29,15 +29,6 @@ body {
     padding-right: 20%;
 }
 
-.user {
-    border-radius: 5px;
-}
-
-.user:hover {
-    border: solid white 4px;
-    background-color: white;
-}
-
 .item {
     cursor: pointer;
     text-align: center;
@@ -46,6 +37,15 @@ body {
 a {
     text-decoration: none;
     color: white
+}
+
+.user {
+    border-radius: 5px;
+}
+
+.user:hover {
+    border: solid white 4px;
+    background-color: white;
 }
 
 .btn-perfil {

@@ -18,13 +18,18 @@ body {
     color: white;
 }
 
+.container {
+    padding-left: 3.5%;
+    padding-right: 3.5%;
+}
+
+/** Header **/
 header .container {
     width: 100%;
-    height: 70px;
+    height: 60px;
     background-color: rgba(14, 14, 14, 0.062);
     position: fixed;
     display: flex;
-    /* z-index: -4;*/
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
@@ -33,11 +38,9 @@ header .container {
     transition: .5s ease all;
 }
 
-header .logo {
-    margin-left: 5px;
-    color: var(--cred);
-    font-family: 'Arial Black', Times;
-    font-size: 30px;
+.transp.scrolled {
+    background-color: var(--cblack);
+    z-index: 90;
 }
 
 header a {
@@ -45,26 +48,28 @@ header a {
     cursor: pointer;
 }
 
-header .user a {
-    border: solid #c0c0c0 0.5px;
-    cursor: pointer;
+header .logo-menu {
     display: flex;
-    width: 40px;
-    height: 40px;
+    align-items: center;
+    justify-content: space-between;
+    width: 51%;
 }
 
-.transp.scrolled {
-    background-color: var(--cblack);
-    z-index: 90;
+/** Tratando o logo **/
+header .logo {
+    margin-left: 5px;
+    color: var(--cred);
+    font-family: 'Arial Black', Times;
+    font-size: 28px;
 }
 
+/** Menu **/
 header nav a {
     font-family: 'Roboto', 'Regular', serif;
     text-decoration: none;
     color: #E5E5E5;
     font-size: 16px;
     font-weight: 600;
-
     margin-right: 10px;
 }
 
@@ -72,12 +77,50 @@ header nav a:hover {
     color: #fff;
 }
 
-.container {
-    padding-left: 3.5%;
-    padding-right: 3.5%;
+/** Menu Search, Notificação e Perfil **/
+header .menu-perfil {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
+header .menu-perfil i {
+    cursor: pointer;
+    font-size: 22px;
+    margin-right: 20px;
+}
+
+header .menu-perfil a {
+    border: solid #c0c0c0 0.5px;
+    cursor: pointer;
+    display: flex;
+    width: 40px;
+    height: 40px;
+}
+
+header .menu-perfil a:hover {
+    border: solid #fff .5px;
+    cursor: pointer;
+    display: flex;
+    width: 40px;
+    height: 40px;
+}
+
+/* Main */
 /*Filme em Destaque*/
+.filme-destaque {
+    font-size: 20px;
+    height: 95vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-destaque .container {
+    width: 50%;
+}
 
 /* Trailer */
 .bg-trailer {
@@ -93,15 +136,10 @@ header nav a:hover {
     /* background: linear-gradient(rgba(0, 0, 0, .80), rgba(220, 0, 0, .10)), url('../img/capa-braking-bad.jpg');*/
 }
 
-/* Filme Principal */
-.filme-destaque {
-    font-size: 20px;
-    height: 95vh;
-    background-size: cover;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
+.filme-destaque .titulo {
+    margin-top: 10%;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 60px;
 }
 
 .filme-destaque .descricao {
@@ -109,36 +147,28 @@ header nav a:hover {
     margin-bottom: 40px;
 }
 
-.filme-destaque .titulo {
-    margin-top: 10%;
-    font-family: 'Trebuchet MS', Arial, sans-serif;
-    font-size: 60px;
-}
-
 .filme-destaque .botao {
     font-family: 'Roboto', 'Regular', sans-serif;
     font-weight: 500;
     border: none;
     border-radius: 5px;
-
-
     display: inline-flex;
     justify-content: center;
     align-items: center;
-
     padding: 10px 20px;
     margin-right: 15px;
     font-size: 16px;
-
     cursor: pointer;
     transition: .3s ease all;
 }
 
+/* Botões Assistir e Mais informações */
 .play {
     background-color: white;
     color: black;
 }
 
+/* Altera cor do botão ao passar o mouse */
 .play:hover {
     background-color: rgba(255, 255, 255, .7);
     color: black;
@@ -149,6 +179,7 @@ header nav a:hover {
     color: white;
 }
 
+/* Altera cor do botão ao passar o mouse */
 .inf:hover {
     background-color: rgba(20, 20, 20, .4);
 }
@@ -158,6 +189,7 @@ header nav a:hover {
     font-size: 20px;
 }
 
+/* Altera o som do trailer para mudo */
 .volume {
     position: absolute;
     padding: 10px;
@@ -170,37 +202,18 @@ header nav a:hover {
     color: white;
 }
 
+/* Botão volume mute */
 .fa-solid.fa-volume-xmark {
     display: none;
 }
 
-.filme-destaque .container {
-    width: 50%;
-}
-
 /* Filmes em Carousel */
-
-.box-filme {
-    cursor: pointer;
-    padding: 5px;
-    /* border: solid red 2px;*/
-    display: block;
-}
-
-
-.box-filme:hover {
-    width: 100%;
-    height: 100%;
-    padding: 0px;
-    transition: width 2s, height 2s;
-}
-
-.carousel-filmes h4 {
+.carousel-f h4 {
     cursor: pointer;
     font-size: 19px;
     font-weight: 600;
     letter-spacing: 1px;
-    margin-bottom: 5px;
+    padding-bottom: 8px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -219,4 +232,18 @@ header nav a:hover {
 
 .continuar {
     margin-top: 40px;
+}
+
+.box-filme {
+    cursor: pointer;
+    padding: 5px;
+    /* border: solid red 2px;*/
+    display: block;
+}
+
+.box-filme:hover {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    transition: width 2s, height 2s;
 }
