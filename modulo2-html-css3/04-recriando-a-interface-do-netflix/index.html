@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device=width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>NETFLIX CLONE</title>
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/responsive.css">
@@ -29,8 +30,8 @@
                 </nav>
             </div>
             <div class="menu-perfil">
-                <i class="fa-solid fa-magnifying-glass"></i>
-                <i class="fa-solid fa-bell"></i>
+                <i id="search" class="fa-solid fa-magnifying-glass"></i>
+                <i id="bell" class="fa-solid fa-bell"></i>
                 <a href="perfil.html">
                     <img src="img/perf-01.jpg" alt="">
                 </a>
@@ -41,7 +42,7 @@
         <div class="filme-destaque">
             <div class="container">
                 <video id="trailer" poster="img/capa.jpg" loop class="bg-trailer">
-                    <source src="img/trailer.mp4" type="video/mp4">
+                    <source src="vid/trailer.mp4" type="video/mp4">
                 </video>
                 <h3 class="titulo">BREAKING BAD</h3>
                 <p class="descricao">Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futuro da
@@ -244,6 +245,10 @@
             </div>
         </div>
     </main>
+    <footer>
+        Desenvolvido por Felipe Cabral<br />
+        Bootcamp Webdeveloper Carrefour - DIO
+    </footer>
     <script src="https://kit.fontawesome.com/08cfcfafd0.js" crossorigin="anonymous"></script>
     <script src="js/owl/jquery.min.js"></script>
     <script src="js/owl/owl.carousel.min.js"></script>

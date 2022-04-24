@@ -247,3 +247,11 @@ header .menu-perfil a:hover {
     padding: 0px;
     transition: width 2s, height 2s;
 }
+
+footer {
+    font-family: 'Roboto', 'Arial', serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: #201f1f;
+}

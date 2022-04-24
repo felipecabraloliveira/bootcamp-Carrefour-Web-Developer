@@ -117,8 +117,13 @@
 @media screen and (max-width:480px) {
 
 
-    header .menu-perfil {
+    #search {
         display: none;
+    }
+
+    #bell {
+        display: none;
+
     }
 
     header .logo {
