@@ -19,11 +19,11 @@ Tecnologias e ferramentas utilizadas:
 
 
 
-### Telas
+### Páginas
 
 
 
-***Tela inicial, menu transparente e fixo no topo, ao rolar a página assume cor no plano de fundo.***
+***Página inicial, menu transparente e fixo no topo, ao rolar a página assume cor no plano de fundo.***
 
 ![img-01](img/final/img-01.png)
 
@@ -35,7 +35,7 @@ Tecnologias e ferramentas utilizadas:
 
 
 
-**Tela mais informações.**
+**Página mais informações.**
 
 ![img-12](img/final/img-12.png)
 
@@ -52,6 +52,8 @@ Tecnologias e ferramentas utilizadas:
 ***Menu perfil, acesso ao clicar no ícone no topo da página à direita.***
 
 ![img-06](img/final/img-06.png)
+
+**Página de seleção de Perfil**.
 
 ![img-05](img/final/img-05.png)
 
