@@ -50,7 +50,10 @@ function som() {
     $('.fa-solid.fa-volume-high').show();
     $('.fa-solid.fa-volume-xmark').hide();
 }
-
+function video() {
+    vid.play();
+    vid.volume = 0.5;
+}
 $(window).scroll(function () {
     vid.play();
     vid.volume = 0.5;
