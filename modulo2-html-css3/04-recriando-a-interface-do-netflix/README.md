@@ -35,7 +35,7 @@ Tecnologias e ferramentas utilizadas:
 
 
 
-**Tela mais informações**
+**Tela mais informações.**
 
 ![img-12](img/final/img-12.png)
 
@@ -49,7 +49,7 @@ Tecnologias e ferramentas utilizadas:
 
 
 
-***Menu de perfil, acesso ao clicar no ícone no topo da página à direita.***
+***Menu perfil, acesso ao clicar no ícone no topo da página à direita.***
 
 ![img-06](img/final/img-06.png)
 
@@ -70,10 +70,6 @@ Tecnologias e ferramentas utilizadas:
 ![img-700](img/final/img-700.png)
 
 ![img-700](img/final/img-703.png)
-
-![img-700](img/final/img-700.png)
-
-![img-700](img/final/img-700.png)
 
 
 
