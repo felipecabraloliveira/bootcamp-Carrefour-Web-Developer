@@ -8,19 +8,23 @@ Recriando a interface do NETFLIX para o desafio de projeto do Bootcamp Carrefour
 
 
 
-Tela inicial, menu transparente e fixo no topo, ao rolar a página assume cor no plano de fundo.
+### Telas
+
+
+
+***Tela inicial, menu transparente e fixo no topo, ao rolar a página assume cor no plano de fundo.***
 
 ![img-01](img/final/img-01.png)
 
 
 
-Trailer da série executando no plano de fundo.
+***Trailer da série executando no plano de fundo.***
 
 ![img-01](img/final/img-02.png)
 
 
 
-Carrossel de filmes, séries, top 10 e continuar assistindo.
+***Carrossel de filmes, séries, top 10 e continuar assistindo.***
 
 ![img-01](img/final/img-03.png)
 
@@ -28,7 +32,7 @@ Carrossel de filmes, séries, top 10 e continuar assistindo.
 
 
 
-Menu de perfil, acesso ao clicar no ícone no topo da página à direita.
+***Menu de perfil, acesso ao clicar no ícone no topo da página à direita.***
 
 ![img-01](img/final/img-06.png)
 
@@ -36,7 +40,11 @@ Menu de perfil, acesso ao clicar no ícone no topo da página à direita.
 
 
 
-Responsividade (1000px, 700px, 480px, 380px)
+## Responsividade
+
+
+
+**Responsividade (1000px, 700px, 480px, 380px)**
 
 ![img-08](img/final/img-08.png)
 
@@ -46,17 +54,21 @@ Responsividade (1000px, 700px, 480px, 380px)
 
 
 
-Menu de perfil no modelo de carrossel. 
+**Menu de perfil no modelo de carrossel. **
 
 ![img-10](img/final/img-10.png)
 
 
 
-Tratamento de imagens.
+## Imagens e Vídeo
+
+
+
+**Tratamento de imagens.**
 
 ![img-07](img/final/img-07.jpg)
 
-HandBrake - Para otimizar o tamanho do trailer.
+**HandBrake - Para otimizar o tamanho do trailer.**
 
 ![img-11](img/final/img-11.png)
 
