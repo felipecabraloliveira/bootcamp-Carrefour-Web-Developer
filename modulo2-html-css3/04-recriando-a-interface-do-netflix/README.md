@@ -38,27 +38,27 @@ Menu de perfil, acesso ao clicar no ícone no topo da página à direita.
 
 Responsividade (1000px, 700px, 480px, 380px)
 
-![img-01](img/final/img-08.png)
+![img-08](img/final/img-08.png)
 
 
 
-![img-01](img/final/img-09.png)
+![img-09](img/final/img-09.png)
 
 
 
 Menu de perfil no modelo de carrossel. 
 
-![img-01](img/final/img-10.png)
+![img-10](img/final/img-10.png)
 
 
 
 Tratamento de imagens.
 
-![img-01](img/final/img-07.jpg)
+![img-07](img/final/img-07.jpg)
 
 HandBrake - Para otimizar o tamanho do trailer.
 
-![img-01](img/final/img-11.png)
+![img-11](img/final/img-11.png)
 
 
 
