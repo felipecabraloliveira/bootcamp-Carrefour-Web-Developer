@@ -97,13 +97,15 @@ main .container {
     }
 
     .poster {
-        width: 50%;
+        width: 100%;
         display: flex;
         margin-right: 20px;
     }
 
     .poster img {
         display: flex;
+        padding-left: 25%;
+        padding-right: 25%;
         width: 100%;
         text-align: center;
     }

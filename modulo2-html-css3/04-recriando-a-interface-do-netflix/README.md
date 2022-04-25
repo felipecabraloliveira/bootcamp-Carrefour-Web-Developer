@@ -35,6 +35,12 @@ Tecnologias e ferramentas utilizadas:
 
 
 
+**Tela mais informações**
+
+![img-12](img/final/img-12.png)
+
+
+
 ***Carrossel de filmes, séries, animes, top 10 e continuar assistindo.***
 
 ![img-03](img/final/img-03.png)
@@ -63,6 +69,12 @@ Tecnologias e ferramentas utilizadas:
 
 ![img-700](img/final/img-700.png)
 
+![img-700](img/final/img-703.png)
+
+![img-700](img/final/img-700.png)
+
+![img-700](img/final/img-700.png)
+
 
 
 ![img-701](img/final/img-701.png)
@@ -73,9 +85,13 @@ Tecnologias e ferramentas utilizadas:
 
 
 
+
+
 **Tela 480px**
 
 ![img-480](img/final/img-480.png)
+
+![img-483](img/final/img-483.png)
 
 ![img-481](img/final/img-481.png)
 
@@ -86,6 +102,8 @@ Tecnologias e ferramentas utilizadas:
 **Tela 380px**
 
 ![img-380](img/final/img-380.png)
+
+![img-381](img/final/img-383.png)
 
 ![img-381](img/final/img-381.png)
 
