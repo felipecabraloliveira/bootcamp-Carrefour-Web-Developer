@@ -250,8 +250,8 @@ header .menu-perfil a:hover {
 
 footer {
     font-family: 'Roboto', 'Arial', serif;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     text-align: center;
     background-color: #201f1f;
 }

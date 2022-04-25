@@ -16,12 +16,7 @@
     .filme-destaque .container {
         width: 70%;
     }
-
 }
-
-
-
-
 
 @media screen and (max-width:700px) {
     .container {
@@ -52,11 +47,12 @@
         height: 60vh !important;
     }
 
+
     .filme-destaque .container {
-        padding-top: 80px;
+        padding-top: 60px;
+        width: 80%;
     }
 
-    /* Trailer */
     .bg-trailer {
         top: 0;
         padding-top: 80px;
@@ -70,8 +66,8 @@
     }
 
     .filme-destaque .descricao {
-        font-size: 18px;
-        margin-top: 10px;
+        font-size: 16px;
+        margin-top: 8px;
         margin-bottom: 16px;
     }
 
@@ -89,15 +85,11 @@
         position: absolute;
         padding: 5px;
         right: 15px;
-        bottom: 40%;
+        bottom: 50%;
     }
 
-    .filme-destaque {
-        height: 80vh;
-    }
-
-    .bg-trailer {
-        top: 0;
+    #filmes {
+        margin-top: 60px;
     }
 
     .box-filme {
@@ -109,21 +101,16 @@
     .box-filme:hover {
         width: 100%;
         padding: 7.5px;
-
-
     }
 }
 
 @media screen and (max-width:480px) {
-
-
     #search {
         display: none;
     }
 
     #bell {
         display: none;
-
     }
 
     header .logo {
@@ -144,24 +131,73 @@
         font-size: 14px;
     }
 
+    .filme-destaque {
+        background-color: rgba(0, 0, 0, 0.2);
+    }
+
     .filme-destaque .container {
+        padding-top: 40px;
         width: 100%;
-        background-color: rgba(0, 0, 0, 0.3);
     }
 
     .filme-destaque .titulo {
-        font-size: 35px;
+        margin-top: 10%;
+        font-size: 30px;
     }
 
     .filme-destaque .descricao {
         width: 60%;
-        margin-top: 20px;
         font-size: 18px;
     }
 
-    #filmes {
-        padding-top: 40px;
+    .filme-destaque .botao {
+        font-size: 14px;
+        padding: 8px 16px;
     }
 
+    #filmes {
+        padding-top: 20px;
+    }
+}
 
+@media screen and (max-width:380px) {
+    header nav a {
+        color: #ffff;
+        font-size: 11px;
+    }
+
+    .filme-destaque {
+        height: 60vh !important;
+        background-color: rgba(0, 0, 0, 0.2);
+    }
+
+    .filme-destaque .container {
+        padding-top: 65px;
+    }
+
+    .bg-trailer {
+        padding-top: 40px;
+        min-height: 70vh !important;
+    }
+
+    .filme-destaque .titulo {
+        margin-top: 8%;
+        font-family: 'Trebuchet MS', Arial, sans-serif;
+        font-size: 30px;
+    }
+
+    .filme-destaque .descricao {
+        font-size: 16px;
+        margin-top: 10px;
+        margin-bottom: 16px;
+    }
+
+    .filme-destaque .botao {
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+
+    #filmes {
+        margin-top: 0px;
+    }
 }
