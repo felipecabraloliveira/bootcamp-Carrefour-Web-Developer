@@ -162,6 +162,10 @@ header .menu-perfil a:hover {
     transition: .3s ease all;
 }
 
+.botoes a {
+    text-decoration: none;
+}
+
 /* Botões Assistir e Mais informações */
 .play {
     background-color: white;
@@ -177,6 +181,7 @@ header .menu-perfil a:hover {
 .inf {
     background-color: rgba(10, 10, 10, .8);
     color: white;
+
 }
 
 /* Altera cor do botão ao passar o mouse */
