@@ -8,6 +8,17 @@ Recriando a interface do NETFLIX para o desafio de projeto do Bootcamp Carrefour
 
 
 
+Tecnologias e ferramentas utilizadas:
+
+- HTML5
+- CSS3
+- JavaScript
+- Plugin: JQuery / owl.carousel.js
+- Photoshop
+- HandBrake
+
+
+
 ### Telas
 
 
@@ -20,23 +31,23 @@ Recriando a interface do NETFLIX para o desafio de projeto do Bootcamp Carrefour
 
 ***Trailer da série executando no plano de fundo.***
 
-![img-01](img/final/img-02.png)
+![img-02](img/final/img-02.png)
 
 
 
-***Carrossel de filmes, séries, top 10 e continuar assistindo.***
+***Carrossel de filmes, séries, animes, top 10 e continuar assistindo.***
 
-![img-01](img/final/img-03.png)
+![img-03](img/final/img-03.png)
 
-![img-01](img/final/img-04.png)
+![img-04](img/final/img-04.png)
 
 
 
 ***Menu de perfil, acesso ao clicar no ícone no topo da página à direita.***
 
-![img-01](img/final/img-06.png)
+![img-06](img/final/img-06.png)
 
-![img-01](img/final/img-05.png)
+![img-05](img/final/img-05.png)
 
 
 
@@ -44,19 +55,43 @@ Recriando a interface do NETFLIX para o desafio de projeto do Bootcamp Carrefour
 
 
 
-**Responsividade (1000px, 700px, 480px, 380px)**
-
-![img-08](img/final/img-08.png)
+**Responsividade (700px, 480px, 380px)** - Menu de perfil no estilo de carrossel.
 
 
 
-![img-09](img/final/img-09.png)
+**Tela 700px**
+
+![img-700](img/final/img-700.png)
 
 
 
-**Menu de perfil no modelo de carrossel. **
+![img-701](img/final/img-701.png)
 
-![img-10](img/final/img-10.png)
+
+
+![img-702](img/final/img-702.png)
+
+
+
+**Tela 480px**
+
+![img-480](img/final/img-480.png)
+
+![img-481](img/final/img-481.png)
+
+![img-482](img/final/img-482.png)
+
+
+
+**Tela 380px**
+
+![img-380](img/final/img-380.png)
+
+![img-381](img/final/img-381.png)
+
+![img-382](img/final/img-382.png)
+
+
 
 
 
@@ -68,7 +103,7 @@ Recriando a interface do NETFLIX para o desafio de projeto do Bootcamp Carrefour
 
 ![img-07](img/final/img-07.jpg)
 
-**HandBrake - Para otimizar o tamanho do trailer.**
+**HandBrake - Otimizar o tamanho do trailer.**
 
 ![img-11](img/final/img-11.png)
 
