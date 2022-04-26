@@ -1,0 +1,34 @@
+Paradigmas
+
+Temos dois, o imperativo e o declarativo.
+
+
+POB
+Os programas são "objetos" que possuem uma série de propriedades.
+
+Pilares
+-Herança
+-Polimorfismo
+-Encapsulamento
+-Abstração
+
+Pilares
+
+Abstração
+Ter um problema complexo e torna-lo mais simples pelo processo de abstração.
+
+
+Herança
+Filho herda propriedades e métodos do objeto pai.
+
+Encapsulamento
+Cada classe tem propriedades e métodos independentes do restante do código.
+
+
+Polimorfismo
+Herdar a mesma classe pai, mas se comporta diferente. 
+
+
+
+
+
