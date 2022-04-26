@@ -1,0 +1,29 @@
+Assíncrono
+
+"Que não ocorre ou não se efetiva ao mesmo tempo"
+
+
+Definição
+
+O JavaScript roda de maneira síncrona.
+
+
+Promises
+
+Objeto de processamento assíncrono.
+
+Inicialmente, seu valor é desconhecido. Ela pode, então, ser resolvida ou rejeitada.
+
+Promises Estados:
+1- Pending
+2- Fulfilled
+3- Rejected
+
+
+Async/Await
+
+Funções assíncronas precisam dessas duas palavras-chave.
+
+
+
+
