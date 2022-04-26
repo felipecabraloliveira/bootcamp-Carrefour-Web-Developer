@@ -1,0 +1,27 @@
+Estrutura
+
+const myMap = new Map()
+
+Métodos
+
+MyMap.set('apple', 'fruit');
+// Map(1) {"apple" => "fruit" }
+A chave é Apple e o valor é Fruit.
+
+MyMap.get(apple);
+// 'fruit'
+
+
+MyMap.delete("apple");
+
+
+MyMap.get("apple")
+// undefined
+
+Diferença de Map e Objeto
+
+Maps podem ter chaves de qualquer tipo, possui length, são fáceis de iterar, pode utilizar as chaves mesmo desconhecidas e os valores têm o mesmo tipo.
+
+
+
+
