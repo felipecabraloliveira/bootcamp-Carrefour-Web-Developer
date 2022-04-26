@@ -1,0 +1,12 @@
+O objeto Error
+
+Declarando o Erro
+new Error(message, fileName, lineNumber)
+
+const MeuErro = new Error('Mensagem Inválida');
+
+throw MeuErro;
+
+É possível nomear o erro.
+MeuErro.name = "InvalidMessage";
+

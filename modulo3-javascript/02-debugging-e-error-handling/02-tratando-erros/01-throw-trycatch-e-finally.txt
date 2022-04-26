@@ -1,0 +1,14 @@
+Return
+Usando o return para tratar, retorna uma string qualquer.
+
+Throw
+Declarando como Throw, vai retornar o erro.
+
+
+Try...catch
+No bloco try será verificado se o pedaço de código possui algum erro, se houver será capturado para a função catch, onde é possível tratar o erro.
+
+
+Finally
+É uma instrução que complementa o Try...catch, que será executada independente de erro ou não, retornando sucesso ou não, ele não é obrigatório.
+

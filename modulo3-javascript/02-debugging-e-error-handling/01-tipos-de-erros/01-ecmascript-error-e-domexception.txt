@@ -1,0 +1,16 @@
+ECMAScript Error
+
+Erros que ocorrem em tempo de execução, é apresentado uma janela ou alerta com a mensagem.
+
+Composta por:
+-Mensagem
+-Nome 
+-Linha
+-Call Stack
+
+DOMException - Tratamento de erros
+
+Erros relacionados ao Document Object Model (DOM)
+
+
+
