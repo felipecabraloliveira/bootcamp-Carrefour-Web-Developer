@@ -10,3 +10,4 @@ throw MeuErro;
 É possível nomear o erro.
 MeuErro.name = "InvalidMessage";
 
+
