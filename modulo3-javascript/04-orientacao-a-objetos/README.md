@@ -17,3 +17,9 @@ Curso de Orientação a Objetos  como os seguintes tópicos:
 
 - Protótipos e Classes
 - Atividade prática
+
+
+
+> Instrutora: Stephany Nusch
+
+> Bootcamp Carrefour Web Developer - DIO
