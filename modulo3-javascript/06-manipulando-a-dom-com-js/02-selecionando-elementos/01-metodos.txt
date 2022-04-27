@@ -1,0 +1,37 @@
+Métodos
+
+Manipulando o DOM
+
+Estrutura HTML
+tag   - ex: <body>
+id    - ex: #titulo
+class - ex: .textos
+
+Métodos
+Selecionando os elementos de uma página.
+
+
+document.getElementById('titulo');
+
+document.getElementsByClassName('textos');
+
+document.getElementsByTagName('li');
+
+document.querySelectorAll('.primeira-classe .segunda-classe');
+
+document.querySelectorAll('li .opcao');
+
+
+Métodos - Adicionar e Deletar Elementos
+
+document.createElement(element)
+document.removeChild(element)
+document.appendChild(element)
+document.replaceChild(new, old)
+
+
+
+
+
+
+

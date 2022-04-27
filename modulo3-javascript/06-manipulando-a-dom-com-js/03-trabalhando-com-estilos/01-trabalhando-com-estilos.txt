@@ -1,0 +1,17 @@
+Estilos 
+
+Como manipular estilos de alguns elementos HTML.
+
+Classes
+Element.classList
+
+Element.classList.add
+Element.classList.remove
+Element.classList.toggle
+
+CSS
+Acessando diretamente o CSS de um elemento
+
+document.getElementsByTagName("p").style.color = "blue";
+
+

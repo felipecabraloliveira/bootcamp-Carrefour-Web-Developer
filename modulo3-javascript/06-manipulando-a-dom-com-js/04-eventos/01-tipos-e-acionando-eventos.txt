@@ -1,0 +1,28 @@
+Eventos
+São ações que o usuário faz para interagir com a página.
+
+Tipos
+Eventos de Mouse
+mouseover, mouseout
+
+Eventos de Click
+click, dbclick
+
+Eventos de atualização
+change, load
+
+
+Acionando os eventos
+
+const botao = document.getElementByID("meuBotao");
+botao.addEventListener("click", outraFuncao);
+
+
+Adicionando diretamente no HTML
+<h1 onclick="mudaTexto(this)">Clique aqui </h1>
+
+<script>
+function mudaTexto(id){
+   id.innerHTML = "Mudei!";
+}
+</script>
