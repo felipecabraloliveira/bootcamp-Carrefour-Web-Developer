@@ -1,0 +1,21 @@
+Renderizando elementos
+
+Elementos são os menores blocos de construção de aplicativos React.
+
+Um elemento descreve o que você quer ver na tela.
+
+
+Componentes e Props
+
+Componente a junção de vários elementos.
+
+Função e Classe;
+
+Props;
+
+Composição de Componentes;
+
+Extração de Componentes;
+
+
+

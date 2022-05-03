@@ -1,0 +1,20 @@
+Stateful vs Stateless
+
+Stateful: usa estados
+Stateless: não usa estados
+
+Gerenciamento de estados no componente.
+
+Stateful ciclo de vida
+- inicialization
+- Mounting
+- Updation
+- Unmounting
+
+
+Stateless
+-Não possui gerenciamento de estados no componente.
+-Construídos usando Funções em JS.
+
+
+

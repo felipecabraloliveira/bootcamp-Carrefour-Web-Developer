@@ -1,0 +1,24 @@
+Aprenda a configurar o webpack
+
+Principais conceitos:
+
+Entry - Utilizando grafo, precisa de um ponto de entrada.
+
+Output - É para determinar quais são os bundlers que o Webpack irá emitir.
+
+Loaders - é para permitir que o WebPack gerencie arquivos que não são Js.
+
+Plugins - Podem ser utilizados para otimização de pacotes.
+
+Mode - Configurações que serão utilizadas, padrão: production, development ou none.
+
+Production - trás otimizações internas.
+
+Development - é executado com três plugins.
+
+
+
+
+
+
+

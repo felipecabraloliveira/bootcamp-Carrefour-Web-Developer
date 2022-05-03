@@ -1,0 +1,22 @@
+O que é ReactJS
+
+Uma biblioteca JavaScript para criar interfaces de usuário.
+
+Foi criada em 2011 por Jordan Walke no Facebook.
+
+Baseado no XHP, um framework para a criação de HTML no PHP.
+
+Utilizado no mural de notícias.
+
+2012 - Utilizado no Instagram
+
+2013 - Anúncio para liberação OpenSource. 
+
+2015 - React Native
+     - UWP - (Universal Windows Platform)	
+
+React é uma Biblioteca e não um Framework.
+
+React é uma linguagem declarativa, sua única preocupação é a exibição para o usuário.
+
+é baseado em componentes.

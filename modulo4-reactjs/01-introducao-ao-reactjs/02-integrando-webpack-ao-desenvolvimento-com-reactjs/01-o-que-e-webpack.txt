@@ -1,0 +1,13 @@
+O que é webpack
+
+é um module bundler(um empacotador de módulos para aplicações JS).
+
+Gerar bndler que será utilizando no HTML, em ES5.
+
+Suporte:
+Fontes
+CSS
+Imagens
+HTML
+JS
+Plugins.
