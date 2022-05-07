@@ -21,7 +21,7 @@ const globalStyle = createGlobalStyle`
   }
 
   #root {    
-    background: url(${CovidImg});
+    background: linear-gradient(rgba(255, 255, 255, .60), rgba(255, 150, 0, .10)), url(${CovidImg});
     height: 100%;
     width: 100%;
     background-size: cover;
@@ -38,6 +38,20 @@ const globalStyle = createGlobalStyle`
 
   .cursor {
     cursor: pointer;
+  }
+  footer{
+    position: fixed;
+    bottom: 0;
+    background: linear-gradient(rgba(60, 60, 60, .95), rgba(30, 20, 30, .90));
+    width: 100%;
+    text-align: center;
+    color: white;   
+    
+  }
+  footer a{
+    text-decoration: none;
+    color: white;
+    font-wheigt: 900;
   }
 `
 
