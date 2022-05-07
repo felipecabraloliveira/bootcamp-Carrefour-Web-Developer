@@ -1,1 +1,28 @@
 Rest HTTP com React
+
+APIs HTTP
+
+Servem para conectar a um ou mias servidores HTTP
+
+- GET
+- POST
+- DELETE
+- PUT
+
+Fetch API
+Axios
+
+Fetch API - 
+Biblioteca nativa do browser.
+Oferece alternativa ao XMLHttpRequest() e JQuery.ajax()
+- Suporte a Service Workers
+
+Diferenças:
+	Não envia nem recebe cookies(precisa definir a opção credentials
+	Não rejeita o status de erro do HTTP.
+
+
+
+
+
+
