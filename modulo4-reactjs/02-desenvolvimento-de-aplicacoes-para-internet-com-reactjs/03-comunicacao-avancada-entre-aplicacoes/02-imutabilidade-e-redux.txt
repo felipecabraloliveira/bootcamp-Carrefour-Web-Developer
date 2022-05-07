@@ -1,1 +1,21 @@
 Imutabilidade e Redux
+
+-Uma vez criada, uma coleção não pode ser alterada.
+-Novas coleções podem ser criadas a partir de uma coleção anterior.
+- Novas coleções são criadas usando o máximo possível da estrutura original.
+
+Benefícios:
+- Performance
+- Programação mais simples
+- Debugging mais simples(detecção de mudanças)
+
+Imutabilidade e React
+- Se você quer performance em React, use dados imutáveis.
+
+
+
+
+
+
+
+

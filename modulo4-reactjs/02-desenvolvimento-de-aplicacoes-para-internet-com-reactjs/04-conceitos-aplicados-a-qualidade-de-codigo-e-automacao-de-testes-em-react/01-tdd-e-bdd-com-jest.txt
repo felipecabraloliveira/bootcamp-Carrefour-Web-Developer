@@ -1,0 +1,20 @@
+O que é TDD
+
+Desenvolvimento orientado a teste.
+
+Escrever um código de teste, afim de antecipar erros a nível de desenvolvimento.
+
+Ciclo
+
+RED
+GREEN
+REFACTOR
+TDD
+
+
+- Teste unitário
+- Teste End-to-End
+
+
+
+

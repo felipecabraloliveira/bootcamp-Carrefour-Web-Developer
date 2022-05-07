@@ -1,1 +1,5 @@
 Redux + Rest
+
+Suponha um sistema de notificação,
+Você precisa manter uma sincronização, independente da tela onde estiver.
+
