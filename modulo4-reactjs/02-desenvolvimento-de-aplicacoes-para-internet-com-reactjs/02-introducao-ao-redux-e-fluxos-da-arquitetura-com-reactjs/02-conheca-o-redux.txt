@@ -8,3 +8,32 @@ React > Action > Store > reducer > store > react
 1- Single source of truth: Uma única store
 2- State é read-only
 3- Mudanças são feitas com pure functions.
+
+
+Em Redux,
+
+Actions são como o Flux
+Retornam um objeto de action formatado.
+
+
+
+Store
+Em Flux: Diversas Stores
+Em Redux: uma única store.
+
+
+Reducers
+Em redux não há dispatcher(Simplifica e divide o trabalho da Store)
+
+Views
+3 novos conceitos
+
+1 Provider
+2 Connect()
+3 Selector
+
+
+
+
+
+
