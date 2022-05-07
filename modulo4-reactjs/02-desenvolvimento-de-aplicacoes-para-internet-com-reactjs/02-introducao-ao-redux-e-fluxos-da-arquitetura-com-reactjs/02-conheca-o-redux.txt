@@ -1,0 +1,10 @@
+Conheça o Redux e como trabalhar com ele
+
+Redux
+
+React > Action > Store > reducer > store > react
+
+
+1- Single source of truth: Uma única store
+2- State é read-only
+3- Mudanças são feitas com pure functions.

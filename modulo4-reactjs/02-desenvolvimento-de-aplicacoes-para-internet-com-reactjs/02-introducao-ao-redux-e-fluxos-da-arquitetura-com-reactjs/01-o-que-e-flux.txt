@@ -1,3 +1,23 @@
 Criado pelo Facebook
 
 Quando surge uma notificação, era preciso exibir ela. 
+
+Store: é um gerente super controlador, ele guarda a informação e todas as alterações devem ser feitas por ele.
+
+View: é como um gerente intermediário que recebe as notificações da store e passa os dados para as visões abaixo dela.
+
+Arquitetura Flux.
+
+- Diversas implementações
+	-Redux
+	-Reflux
+	- Mobx
+	- Vuex( baseado em Redux e ELM)
+	- NgRx/Store
+
+Bibliotecas baseadas em Flux
+
+Serverm para comunicação entre componentes
+Centralizam a informação.
+
+
