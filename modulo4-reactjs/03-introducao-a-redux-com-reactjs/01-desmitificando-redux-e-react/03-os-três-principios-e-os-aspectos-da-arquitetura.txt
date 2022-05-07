@@ -1,0 +1,13 @@
+Os três princípios e os aspectos da arquiteturaOs três princípios e os aspectos da arquitetura
+
+- Uma única fonte de verdade.
+- Estado apenas disponível para leitura
+- Mudanças no estado são feitas apenas por funções puras.
+
+Aspectos
+
+reducer: store.getState()
+store: createStore()
+actions: store.dispatch()
+view: connect(react-redux)
+

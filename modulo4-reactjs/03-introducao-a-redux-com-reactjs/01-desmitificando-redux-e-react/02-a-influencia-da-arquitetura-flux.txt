@@ -1,0 +1,14 @@
+A Influência da Arquitetura Flux
+
+Flux Architecture
+View > Actions > Dispatcher > Store > View
+
+
+Nasceu para simplificar os efeitos do React.
+
+
+
+
+
+
+
