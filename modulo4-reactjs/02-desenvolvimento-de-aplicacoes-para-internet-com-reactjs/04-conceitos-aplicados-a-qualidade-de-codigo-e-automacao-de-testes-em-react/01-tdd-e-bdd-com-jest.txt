@@ -16,5 +16,44 @@ TDD
 - Teste End-to-End
 
 
+TDD
+
+Jest
+React-testing-library
+Shallow
+Enzyme
+Chai
+Mocha
+Selenium
+Puppeterr
+
+
+Como fazer o teste para a função soma por exemplo
+
+
+//soma.js
+function soma(a, b){
+	return a+ b;
+}
+
+utilizando JEST
+
+Usar Jasmine
+
+
+O que é BDD
+
+Behavior-Driven Development
+-Teste de especificação.
+
+
+
+
+
+
+
+
+
+
 
 
