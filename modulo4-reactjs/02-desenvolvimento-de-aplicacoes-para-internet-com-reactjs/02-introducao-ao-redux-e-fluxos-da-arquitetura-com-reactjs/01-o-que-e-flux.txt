@@ -1,0 +1,3 @@
+Criado pelo Facebook
+
+Quando surge uma notificação, era preciso exibir ela. 
