@@ -23,6 +23,18 @@ Diferenças:
 
 
 
+AXIOS
+-LIB de HTTP API
+- Cross-browser
+- pode monitorar o prograsso de um request
+- Melhor tratamento de erros
+- Melhor teste
+
+Instalar a biblioteca
+yarn add axios
+
+import axios from 'axios';
+
 
 
 
