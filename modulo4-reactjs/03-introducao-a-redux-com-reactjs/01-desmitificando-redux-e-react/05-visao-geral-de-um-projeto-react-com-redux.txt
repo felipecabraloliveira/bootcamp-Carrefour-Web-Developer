@@ -1,0 +1,2 @@
+Visão geral de um projeto react com redux
+

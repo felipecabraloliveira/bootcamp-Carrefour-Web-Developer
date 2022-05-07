@@ -1,0 +1,6 @@
+O que são middlewares e enhanced stores
+
+Middlewares
+
+é uma função que retorna uma outra função, a primeira recebe uma dispatch.
+

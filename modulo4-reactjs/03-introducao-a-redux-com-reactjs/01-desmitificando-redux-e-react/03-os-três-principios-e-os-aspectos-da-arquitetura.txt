@@ -10,4 +10,4 @@ reducer: store.getState()
 store: createStore()
 actions: store.dispatch()
 view: connect(react-redux)
-
+  - selectors
