@@ -45,15 +45,3 @@ O que é BDD
 
 Behavior-Driven Development
 -Teste de especificação.
-
-
-
-
-
-
-
-
-
-
-
-
