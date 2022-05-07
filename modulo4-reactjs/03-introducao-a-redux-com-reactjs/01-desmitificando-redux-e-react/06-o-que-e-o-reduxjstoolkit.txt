@@ -2,3 +2,5 @@ O que é o reduxjstoolkit
 
 Uma biblioteca com várias abstraçõpes do redux.
 
+
+

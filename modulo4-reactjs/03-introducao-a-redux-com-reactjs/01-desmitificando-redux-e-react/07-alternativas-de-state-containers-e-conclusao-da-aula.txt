@@ -1,0 +1,12 @@
+Alternativas de state containers e conclusão da aula
+
+Context API (React)
+Recoil (FB)
+MobX (Redux-saga, rxJS)
+XState
+
+
+
+Super poderoso, mas pode ser custoso.
+Flexível para resolver diversos problemas.
+propósito do redux é muito diferente do react, e pode ser usado em outras soluções.

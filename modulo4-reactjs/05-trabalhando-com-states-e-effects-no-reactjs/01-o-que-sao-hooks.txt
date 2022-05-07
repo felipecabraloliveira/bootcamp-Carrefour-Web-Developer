@@ -1,0 +1,8 @@
+O que são hooks
+
+Nada mais é do que uma função que vai executar com uma ação.
+
+Eles não são obrigatórios.
+
+
+

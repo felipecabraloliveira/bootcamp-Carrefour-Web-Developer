@@ -1,0 +1,12 @@
+Ducks Pattern e High-Order-Reducers
+
+
+Ducks Pattern 
+
+foi criado para utilizar o redux como modulos.
+
+
+High-Order-Reducers
+
+Funções de alta ordem.
+

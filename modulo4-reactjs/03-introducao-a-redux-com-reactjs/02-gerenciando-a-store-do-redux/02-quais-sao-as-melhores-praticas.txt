@@ -1,0 +1,7 @@
+Quais são as melhores práticas
+
+Redux 
+
+tem focado em padronização.
+
+Redux Style Guide
