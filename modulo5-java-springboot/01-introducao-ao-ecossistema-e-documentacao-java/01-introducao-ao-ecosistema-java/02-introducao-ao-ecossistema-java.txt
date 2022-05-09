@@ -1,0 +1,13 @@
+O que é Java?
+
+Uma linguagem de programação e uma plataforma computacional, lançada em 1995.
+
+Características
+
+- Compilada
+- Interpreta
+- Fortemente tipada
+- Linguagem de alto nível
+- Executada em uma máquina virtual - JVM (Java Virtual Machine)
+
+

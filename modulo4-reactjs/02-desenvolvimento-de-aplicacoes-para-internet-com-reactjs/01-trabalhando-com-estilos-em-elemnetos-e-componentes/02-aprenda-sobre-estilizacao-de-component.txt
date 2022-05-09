@@ -1,0 +1,52 @@
+Aprenda sobre estilização de componentes e elementos CSS
+
+Maneiras de estilização
+
+1 - Inline
+2 - Classes
+3 - CSS in JS
+
+
+Inline
+maneira mais básica de estilizar um elemento. 
+
+function APP(){
+	return (
+		<helloWorld style={{marginTop: '10px'}} />
+	)
+
+Prós
+- Maneira mais prática e direta
+- Ajustes Rápidos
+- Testes de estilo
+Contas
+- Difícil manutenção
+
+
+Classes
+
+.div-style{
+	color: blue;
+	background-color: url('https://.....');	
+}
+
+Em JSX, define-se classes pelo atributo className
+- Maneira mais prática e direta
+Contras
+- Difícil manutenção
+- Pouca flexibilidade
+- Conflitos com nomes
+
+CSS in JS
+const DivStyle = style.div`
+	color: blue;
+`;
+
+Manutenção
+- Facilidade para remover CSS
+- Estilos dinâmicos
+Performance
+
+
+
+

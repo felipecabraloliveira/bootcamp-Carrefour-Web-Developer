@@ -1,0 +1,38 @@
+O que é JVM?
+
+JVM - Java Virtual Machine -e uma maquina virtual responsável pela tradução dos ByteCodes oriundos do compilador Javac(Java Compiler) em código de máquina de cada sistema operacional.
+
+Característica:
+- Execução de pilhas
+- Gerenciamento de memória
+- Gerenciamento de threads
+- Otimização de código
+- Garbage Collector(GC)
+
+Outras linguagens precisam compilar sua aplicação para cada sistema operacional, já o JAVA não tem essa necessidade, pois o código é compilado diretamente para a JVM que por sua vez se ajusta ao sistema operacional.
+
+
+JRE x JDK
+
+JRE - Responsável por executar os programas em JAVA.
+
+JDK - Utilitários que permitem o desenvolvimento de programas em JAVA, já possui a JVM para executar os programas.
+
+
+Tipos de plataforma JAVA:
+
+Java SE(Java Standard Edition) - Contém as especificações do java e pode ser implementado por diversas empresas como Oracle, OpenJDK...
+
+Java EE(Java Enterprise Edition) - Contém todas as especificações do Java SE e um número de programas úteis para que executem em servidores, em 2019 foram renomeados para Jakarta EE.
+
+Java ME(Java Micro Edition) - Contém especificações para desenvolvimento para dispositivos pequenos como celulares.
+
+
+Quais são as Implementações JAVA SE?
+
+- OpenJDK
+- Oracle JDK
+- AdoptOpenJDK
+- Amazon Corretto
+- GraalVM CE
+- Azul Zulu
