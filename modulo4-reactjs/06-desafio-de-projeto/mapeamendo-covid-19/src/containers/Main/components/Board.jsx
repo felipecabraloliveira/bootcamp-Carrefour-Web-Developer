@@ -7,8 +7,7 @@ function Board({ data }) {
   const { cases, todayDeaths, recovered, deaths, todayCases, casesPerOneMillion } = data
 
   const getValue = (value) => value === undefined ? 0: value.toLocaleString('pt-br')  
-  
- 
+   
   return (
     <Grid container spacing={4}>
       <Grid item xs={12} md={4}>

@@ -48,6 +48,7 @@ function Panel({ updateAt, onChange, data, country, getCoviddata }) {
     </div>
   )
 
+
   return (
     <Card>
       <CardPanelContentStyled>
