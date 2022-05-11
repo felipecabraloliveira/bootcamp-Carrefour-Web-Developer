@@ -19,6 +19,9 @@ export const CardPanelContentStyled = styled(CardContent)`
   display: flex;
   justify-content: space-between;
   padding: 25px;
+  @media (max-width: 480px){	  
+	  flex-direction: column-reverse;   
+  }
 `
 
 export const ItemStyled = styled.div`
@@ -26,3 +29,4 @@ export const ItemStyled = styled.div`
   justify-content: space-between;
   min-width: 150px;
 `
+
