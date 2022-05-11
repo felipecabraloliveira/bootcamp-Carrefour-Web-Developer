@@ -7,6 +7,7 @@ import ItalyFlag from '../../assets/images/italy.png'
 import EspanhaFlag from '../../assets/images/espanha.png'
 import InglaterraFlag from '../../assets/images/inglaterra.png'
 import UsaFlag from '../../assets/images/usa.png'
+import EquadorFlag from '../../assets/images/equador.png'
 
 const COUNTRIES = [
   {
@@ -43,6 +44,11 @@ const COUNTRIES = [
     label: 'Estados Unidos',
     value: 'usa',
     flag: UsaFlag
+  },
+   {
+    label: 'Equador',
+    value: 'ecuador',
+    flag: EquadorFlag
   },
   {
     label: 'Inglaterra',

@@ -6,7 +6,7 @@ import Card from './Card'
 function Board({ data }) {
   const { cases, todayDeaths, recovered, deaths, todayCases, casesPerOneMillion } = data
 
-  const getValue = (value) => value === undefined ? 0: value.toLocaleString('pt-br')  
+  const getValue = (value) => value === undefined || value === null ? 0: value.toLocaleString('pt-br')  
    
   return (
     <Grid container spacing={4}>
