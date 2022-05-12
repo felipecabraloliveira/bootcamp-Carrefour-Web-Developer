@@ -1,0 +1,12 @@
+Métodos
+
+O que são métodos?
+
+Métodos são funções que definem o comportamento de uma classe.
+
+Temos 2 tipos:
+
+Métodos construtores - Definem como uma classe será instanciada "construída".
+
+Métodos comum - Definem comportamentos que podem ou não estar relacionados a regra de negócio, ex. calcular taxa de pedido.
+

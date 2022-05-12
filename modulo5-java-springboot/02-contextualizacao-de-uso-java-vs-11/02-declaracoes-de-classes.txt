@@ -1,0 +1,56 @@
+Declarações de classes
+
+Estrutura básica:
+
+public class Order{
+
+}
+
+Public - modificador de acesso
+class - Palavra reservada class
+
+Order - Sempre representado com a letra inicial maiúscula, se refere a um objeto do mundo real.
+
+public class Order{
+	// Atributos
+	private final String code;
+	private final BigDecimal totalValue;
+
+	// metodos
+	public BigDecimal calculateFee(){
+
+	}
+}
+
+
+Estrutura completa de uma classe:
+
+package com.dio.base;
+
+import java.math.BigDecimal;
+
+public class Order{
+	// Atributos
+	private final String code;
+	private final BigDecimal totalValue;
+
+	public Order(String code, BigDecimal totalValue){
+		this.code = code;
+		this.totalValue = totalValue;
+	}
+
+
+	// metodos
+	public BigDecimal calculateFee(){
+		return this.totalValue.multiply(new BigDecimal("0.99));
+	}
+}
+
+
+
+
+
+
+
+
+
