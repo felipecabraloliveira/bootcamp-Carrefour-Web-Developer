@@ -11,7 +11,7 @@ public class Order {
 
     public double calculateFee() {
         if (totalValue > 100) {
-            return totalValue * 0.99;
+            return totalValue * 2.99;
         } else {
             return totalValue;
         }
@@ -19,12 +19,14 @@ public class Order {
 
     /*
      * Exemplo Aula 1
-     * 
-     * @Override
-     * public String toString() {
-     * return "Order={" +
-     * "code='" + code + "'" +
-     * "}";
-     * }
      */
+
+    @Override
+    public String toString() {
+        return "Order={" +
+                "code='" + code + "'" +
+                "totalValue='" + totalValue + "'" +
+                "}";
+    }
+
 }
