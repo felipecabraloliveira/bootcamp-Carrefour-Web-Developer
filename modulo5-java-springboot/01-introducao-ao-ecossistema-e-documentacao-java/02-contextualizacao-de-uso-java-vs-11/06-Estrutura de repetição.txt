@@ -1,0 +1,10 @@
+Estrutura de repetição
+
+O que é?
+
+é responsável por executar de forma repetida uma instrução ou bloco de instrução até que uma condição esteja satisfeita.
+
+- while
+- do while
+- for
+- enhanced for

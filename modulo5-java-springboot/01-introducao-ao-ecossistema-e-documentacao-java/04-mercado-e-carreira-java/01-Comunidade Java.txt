@@ -1,0 +1,21 @@
+Comunidade Java
+
+Tamanho da comunidade auxilia na escolha de uma linguagem de programação de uma empresa.
+
+Qualidade e facilidade para encontrar informações sobre a linguagem diminuem a curva de aprendizado.
+
+Atualmente existem comunidades de tecnologias onde é possível encontrar um grupo voltado para a linguagem.
+
+
+Algumas comunidades:
+
+OpenSanca - opensanca.com.br
+
+SouJava - soujava.org.br
+
+DevOpsPBS - devopspbs.org
+
+
+
+
+

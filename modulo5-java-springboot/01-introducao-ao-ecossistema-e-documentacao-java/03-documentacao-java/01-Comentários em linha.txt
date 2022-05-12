@@ -1,0 +1,5 @@
+Comentários em linha
+
+Cometários são feitos com duas barras "//"
+
+// Esse trecho de código faz...

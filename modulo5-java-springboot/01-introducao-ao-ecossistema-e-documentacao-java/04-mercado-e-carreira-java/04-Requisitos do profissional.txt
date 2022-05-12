@@ -1,0 +1,26 @@
+Requisitos do profissional
+
+Ao evoluir na carreira de Java é necessário desenvolver tanto Soft Skills quanto Hard Skills.
+
+Cada vez mais Soft Skills estão se tornando mais prioritárias que Hard Skills.
+
+Ex. de Soft Skills:
+- Resolução de Problemas Complexos.
+- Pensamento Critivo
+- Criatividade
+- Gestão de Pessoas
+- Coordenação em equipe
+- Liderança
+
+
+Ex. de Hard Skills:
+- Spring Boot
+- Spring Cloud
+- Apache Kafka
+- RabbitMQ
+- Arquitetura Cloud
+- Banco de dados relacional e não relacional.
+
+
+
+

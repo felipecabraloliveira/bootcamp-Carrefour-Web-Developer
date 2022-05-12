@@ -1,0 +1,25 @@
+Tags Javadoc
+
+Tipos de Tags:
+
+@author - autor da classe ou do método.
+
+@deprecated - Identifica classes ou métodos obsoletos.
+
+@link - Definição de um link para u outro documento local ou remoto através de um URL.
+
+@param - Descreve um parâmetro que será passado a um método.
+
+@return - Descreve qual o tipo de retorno de um método.
+
+@see - associa a outras classes ou métodos.
+
+@since - Desde quando uma classe ou método foi adicionado.
+
+@throws - Tipos de exceções que podem ser lançadas por um método.
+
+@version - versão da classe ou do método.
+
+
+
+

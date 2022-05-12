@@ -1,0 +1,7 @@
+Comentários em bloco
+
+Para utilizar inserir /** e para fechar */
+
+/**
+* Esse trecho ....
+*/
