@@ -1,7 +1,6 @@
 package com.dio;
 
 import com.dio.model.Gato;
-
 import java.util.Objects;
 
 public class PrimeiroPrograma {
