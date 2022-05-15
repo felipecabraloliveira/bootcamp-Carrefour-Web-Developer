@@ -1,0 +1,8 @@
+Conversões (casting)
+
+É a transformação de uma determinada variável de tipo menos específico para um tipo mais específico ou vice-versa.
+
+tipos:
+Upcast(implícito)
+Downcast(expícito)
+
