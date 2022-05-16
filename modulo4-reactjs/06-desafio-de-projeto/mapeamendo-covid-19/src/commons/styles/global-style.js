@@ -45,8 +45,7 @@ const globalStyle = createGlobalStyle`
     background: linear-gradient(rgba(60, 60, 60, .95), rgba(30, 20, 30, .90));
     width: 100%;
     text-align: center;
-    color: white;   
-    
+    color: white;       
   }
   footer a{
     text-decoration: none;
