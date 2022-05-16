@@ -1,0 +1,16 @@
+Como criar sobrecargas, usá-las e exercício prático
+
+É a capacidade de definir métodos para diferentes contextos, mas preservando seu nome.
+
+Para isso funcionar, devemos trabalhar com uma lista de parâmtros diferente, de acorco com a necessidade.
+
+Assinatura do método é o nome + parâmetros.
+
+Sobrecarga x Sobrescrita
+
+Sobrecarga - mantem o nome e altera os parâmetros, inclusive os tipos de dados.
+
+
+
+
+

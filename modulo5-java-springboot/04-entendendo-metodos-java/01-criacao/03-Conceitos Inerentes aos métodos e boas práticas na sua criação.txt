@@ -1,0 +1,47 @@
+Conceitos Inerentes aos métodos e boas práticas na sua criação
+
+Assinatura: é a forma de identificar unicamente o método
+
+Ass = nome + parametro
+
+método:
+public double calcularTotalVenda(...){
+...
+}
+
+Assinatura:
+calcularTotalVenda(....)
+
+- Construtor e Destrutor: são métodos especias usados na Orientação a objetos.
+
+
+Mensagem: é o ato de solicitar ao método que o mesmo execute. Esta pode ser direcionada a um objeto ou a uma classe.
+
+
+Passagem de parâmetros:
+
+- Por valor
+- por referência
+
+
+Exemplo:
+
+
+int i = 10;
+public void fazerAlgo(int i){
+	i = i + 10;
+		System.out.println("I de dentro = " + i); = 20
+
+}
+System.out.println("I de fora= " + i); = 10
+
+Boas práticas
+
+- Nomes devem ser descritivos, mas curtos
+- Notação camelo
+- Deve possuir entre 90 e 120 linhas
+- Evite lista de parâmetros longas
+- Visibilidades adequadas.
+
+
+

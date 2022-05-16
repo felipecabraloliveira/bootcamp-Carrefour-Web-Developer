@@ -1,0 +1,47 @@
+Definição
+
+Padrão de definição
+
+> Visibilidade
+> Tipo
+> Modificador
+> Retorno* 
+> Nome*
+> Parâmetros
+> exceções
+> corpo*
+
+void - executa mas sem retorno.
+
+
+Utilização
+
+Passa-se uma mensagem através de uma classe ou objeto.
+
+Via classe:
+nome_classe.nome_metodo();
+
+
+Via objeto
+nome_objeto.nome_metodo();
+
+
+Math.random()
+
+Classe Math
+Método random()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

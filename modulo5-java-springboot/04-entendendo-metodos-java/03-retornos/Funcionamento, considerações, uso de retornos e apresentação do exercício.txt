@@ -1,0 +1,33 @@
+Funcionamento, considerações, uso de retornos e apresentação do exercício
+
+Return
+
+é uma instrução de interrupção.
+Simbologia: return
+
+Totalmente atrelado ao método.
+
+
+O método executa seu retorno quando:
+
+- Completa todas suas instruções internas.
+- Chega a uma declaração explicita de retorno
+- Lança uma exceção
+
+Considerações:
+O tipo de retorno do método é definido na sua criação e pode ser um tipo primitivo ou objeto.
+O tipo de dado do return deve sr comptível com o método
+Se o método for sem retorno(void), pode ou não ter um "return" para encerrar sua execução.
+
+Public String getMensagem(){
+	return "Olá";
+}
+
+Public double getJuros(){
+	return 2.36;
+}
+
+
+
+
+

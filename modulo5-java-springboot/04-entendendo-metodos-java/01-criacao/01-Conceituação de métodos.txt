@@ -1,0 +1,8 @@
+Conceituação de métodos
+
+é uma porção de código(sub-rotina, que é disponibilizada por uma classe. Este é executado quando é feita uma requisição a ele. São responsáveis por definir e realizar um determinado comportamento.
+
+Sempre deve estar dentro de uma classe.
+
+Executado quando requisitado(chamar o método)
+
