@@ -1,0 +1,20 @@
+Boas práticas
+
+- Switch é para valores exatos e if para expressões booleanas.
+
+Se você tem apenas uma variável envolvida na decisão e for de valor exato, utilize o swith, o if use se tiver mais variáveis.
+
+
+- Evitar usar o default do switch para "cases genéricos"
+
+Utilizar para tratar valores inválidos, não usar para comportamento.
+
+
+
+- Evitar o efeito "flecha" dos if's
+
+- Evitar muitos if's aninhados
+
+- Usar a boa prática da aula 2 para diminuir o tamanho if
+
+

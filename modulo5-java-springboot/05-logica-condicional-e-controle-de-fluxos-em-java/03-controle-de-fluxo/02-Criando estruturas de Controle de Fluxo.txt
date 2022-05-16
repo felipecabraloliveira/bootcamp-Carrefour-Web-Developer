@@ -1,0 +1,56 @@
+Criando estruturas de Controle de Fluxo
+
+Tipos:
+Decisão: estrutura que avalia uma condição booleana ou varável para direcionar o fluxo de execução.
+
+opções: if(se), switch(escolha) e operador ternário.
+
+
+Decisão:
+- if,if-else, if-else-if
+
+
+- Operador ternário:
+
+condição ? true : false;
+
+condição ? true : null;
+
+o null seria a omissão do else.
+
+emMovimento ? freia : null;
+
+ligado ? desligar : ligar;
+
+Evitar o uso, apenas para coparações mais simples.
+
+
+Escolha:
+- switch (variavel){
+    case 1:
+	break; 
+    case 2:
+	...
+    default:
+	break;
+}
+
+switch (olhos){
+    case "AZUIS":
+	break; 
+    case "VERDER":
+	break; 
+    default:
+	break;
+}
+
+
+
+
+
+
+
+
+
+
+

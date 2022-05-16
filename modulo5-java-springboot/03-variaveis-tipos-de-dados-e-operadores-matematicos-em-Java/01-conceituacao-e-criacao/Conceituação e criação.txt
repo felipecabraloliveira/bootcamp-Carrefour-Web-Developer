@@ -1,0 +1,32 @@
+Conceituação e criação
+
+Variável = Um espaço na memória onde se pode guardar valores.
+
+Java - 4 tipos de variáveis
+
+
+- Instância: objeto.
+- Classe: classe.
+- Local: dentro de métodos.
+- Parâmetro: Na assinatura do método.
+
+final - o valor da variável é constante, então nunca vai mudar.
+
+
+Convenções e regras.
+
+- não começar com números
+- não usar "$" e "_" sempre evitar
+- São case-sensitive;
+- Sem espaçoes;
+- Não pode ser as palavras reservadas do JAVA.
+
+
+Boas práticas
+
+- Sempre começar com letra miníscula;
+- Nomes ecpressivos
+- Notação camelo
+- Quando constante(final) maúscua e separada por "_", ex. NUMERO_TENTATIVAS = 5;
+
+

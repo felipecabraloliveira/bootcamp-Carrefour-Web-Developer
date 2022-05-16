@@ -1,0 +1,14 @@
+Operadores aritméticos
+
+São símbolos especiais quais são capazes de reaizar operações.
+
+tipos:
+
+pós-fixado: exp++ ou exp--
+
+prefixado: ++exp ou --exp
+
+aritmético: +,-,*,/ e %
+
+atribuição: =, +=, -=, *=, /= e %=
+

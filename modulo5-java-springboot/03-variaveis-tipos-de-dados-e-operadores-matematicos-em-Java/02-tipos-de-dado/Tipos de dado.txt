@@ -1,0 +1,27 @@
+Tipos de dado
+
+São os valores e consequentemente operações que as variáveis podem assumir e sofrer, respectivamente.
+
+resumindo em 3 pontos: valor, conjunto de valor e operações que podem ser realizadas nesses valores.
+
+Tipificação
+
+Estática(forte) vs Dinâmica(fraco)
+
+- Forte defini o tipo na criação e não permite a sua modificação, a fraca assume o tipo de acordo com o valor.
+
+Primitivo vs Composto
+
+Primitivos - valores núricos e textos.
+
+Composto - Ligado a orientação a objetos.
+
+
+Opções de Tipos:
+
+- Textual
+- Numeral
+- Lógico
+- Objeto
+
+
