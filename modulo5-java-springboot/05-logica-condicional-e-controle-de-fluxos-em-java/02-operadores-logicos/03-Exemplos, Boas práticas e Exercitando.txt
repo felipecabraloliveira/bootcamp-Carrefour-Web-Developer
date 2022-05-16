@@ -1,0 +1,25 @@
+Exemplos, Boas práticas e Exercitando
+
+Quando utilizar?
+
+Depende muito da necessidade, geralmente são utilizados dentro de estruturas.
+
+Curiosidade
+
+Embora pareçam, mas não são operadores lógicos:
+
+Operadores bitwise:
+& e |
+
+Opradores shift:
+~, >>, >>>, <<
+
+
+
+
+Boas práticas
+
+
+- Crie variáveis auxiliares para guardar resultados intermediários.
+
+

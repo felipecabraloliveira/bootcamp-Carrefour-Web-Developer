@@ -1,0 +1,39 @@
+Como utilizar Operadores Lógicos
+
+Tipos:
+Conjunção: operação lógica que só é verdadeira quando ambos os operadores ou expressões envolvidas são verdadeiros.
+
+Simbologia:
+- &&
+
+Terminologia:
+- and(e)
+
+
+Disjunção: Operação que só é falsa quando ambos os operandos ou expressões envolvidas são falsos.
+
+Simbologia:
+- ||
+
+Terminologia:
+- or(ou)
+
+Disjunção exclusiva: operação que só é verdade quando ambos os operandos ou expressões são opostos.
+
+Simbologia:
+- ^
+
+Terminologia:
+- xor
+
+
+Negação: operação que inverte o valor lógico de um operando ou expressão.
+
+Simbologia:
+- !
+
+Terminologia:
+- inversão
+
+
+

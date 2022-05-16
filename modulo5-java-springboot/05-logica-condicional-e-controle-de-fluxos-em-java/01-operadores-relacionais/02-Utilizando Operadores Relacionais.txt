@@ -1,0 +1,31 @@
+Utilizando Operadores Relacionais
+
+Similaridade:
+
+Igualdade
+Diferença
+
+
+Simbologia:
+
+- Igualdade: ==
+- Diferença: !==
+
+
+Tamanho:
+Maior
+Maior igual
+
+Simbologia:
+>
+>=
+
+Menor
+Menor Igual
+
+Simbologia:
+<
+<=
+
+
+
