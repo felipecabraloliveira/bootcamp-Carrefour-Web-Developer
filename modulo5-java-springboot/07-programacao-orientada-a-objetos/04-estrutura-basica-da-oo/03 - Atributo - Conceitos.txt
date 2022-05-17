@@ -1,0 +1,52 @@
+Atributo - Conceitos
+
+"É o elemento de uma classe responsável por definir sua estrutura de dados. O conjunto destes será responsável por representar suas carcterísticas e fará parte dos objetos criados a partir da classe."
+
+Exemplo:
+
+Bola
+  - diametro
+
+Carro
+  - Cor
+
+Venda
+  - valor
+
+Comprador
+  - nome
+
+Computador
+  - memória
+
+
+
+Atributo x Variável
+
+Atributo: o que é próprio e peculiar a alguém ou alguma coisa.
+
+Variável: Sujeito a variações ou mudanças; que pode variar; inconstante, instável.
+
+
+Atributos
+Dicas:
+
+- Substantivos e adjetivos
+- Nome significativo
+- Contexto deve ser considerado
+- Abstração
+- Tipos adequados
+
+Código:
+
+JAVA
+class Carro{
+   int portas;
+}
+
+PYTHON
+class Carro:
+   portas = 0
+
+
+

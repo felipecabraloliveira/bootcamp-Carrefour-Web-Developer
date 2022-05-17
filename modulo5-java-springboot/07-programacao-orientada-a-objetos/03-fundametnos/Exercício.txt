@@ -1,0 +1,12 @@
+Entidade: Livros
+
+Características:
+
+- Título
+- Tema
+- Idioma
+- Autor
+- Idioma
+- Assunto
+- Qtd Páginas
+- Ano publicação

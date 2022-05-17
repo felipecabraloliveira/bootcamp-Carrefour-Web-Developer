@@ -1,0 +1,117 @@
+Método - Conceito
+
+"É uma porção de código (sub-rotina) que é disponibilizada pela classe. Este é executado quando é feita uma requisição a ele. Um método serve para identificar quais serviços, ações, que a classe oferece. Eles são responsáveis por definir e realziar um determinado comportamento."
+
+Exemplos
+
+Carro
+  - Ligar
+
+Venda
+  - Calcular total
+
+Comprador
+  - Realizar troca
+
+Computador
+  - Desligar
+
+
+Criação:
+
+
+JAVA
+
+- Visibilidade
+- Retorno
+- Nome
+- Parâmetros
+
+PYTHON
+- def
+- Nome
+- Parâmetros
+
+Dicas:
+
+- Verbos
+- Nome significativo
+- Contexto deve ser considerado
+
+
+Código
+
+JAVA
+class Carro{
+  void frear(){
+	...
+  }
+}
+
+
+PYTHON
+class Carro:
+  def frear()
+
+
+Métodos
+
+- Dois métodos especiais:
+    - Construtor
+    - Destrutor
+
+
+Construtor > constroi objetos .
+
+JAVA - Obrigatoriamente o construtor tem que ter o mesmo nome da classe.
+
+class Carro{
+  Carro(){
+    ...
+  }
+}
+
+
+Destrutor - Auxilia na destruição do objeto.
+JAVA
+class Carro{
+  void finalize(){ // acabar com o objeto.
+    ...
+  }
+}
+
+
+Sobrecarga
+
+  - Mudar a assinatura de acordo com a necessidade
+    Assinatura: nome + parâmetros
+
+Java
+m1()
+m1 (int i)
+m1 (float f)
+m1(String s, long l)
+m1 (long l, String s)
+
+Porque usar?
+
+Representar o mundo real de forma mais realista.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
