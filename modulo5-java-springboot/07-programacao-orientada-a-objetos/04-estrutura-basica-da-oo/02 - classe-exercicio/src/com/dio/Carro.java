@@ -6,6 +6,7 @@ class Carro {
     String modelo;
     int capacidadeTanque;
 
+    // Construtor
     public Carro() {
         super();
     }
@@ -14,8 +15,10 @@ class Carro {
         this.cor = cor;
         this.modelo = modelo;
         this.capacidadeTanque = capacidadeTanque;
+        // Atributo = Parametro
     }
 
+    // Get e Set
     public String getCor() {
         return cor;
     }
@@ -38,5 +41,10 @@ class Carro {
 
     public void setCapacidadeTanque(int capacidadeTanque) {
         this.capacidadeTanque = capacidadeTanque;
+    }
+
+    // Método para calcular valor para encher o tanque.
+    double totalValorTanque(double valorCombustivel){
+        return capacidadeTanque * valorCombustivel;
     }
 }
