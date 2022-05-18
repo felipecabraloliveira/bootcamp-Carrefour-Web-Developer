@@ -1,7 +1,7 @@
 package com.dio;
 
 // Criar a classe Carro
-class Carro {
+public class Carro {
     String cor;
     String modelo;
     int capacidadeTanque;
@@ -44,7 +44,7 @@ class Carro {
     }
 
     // Método para calcular valor para encher o tanque.
-    double totalValorTanque(double valorCombustivel){
+    double totalValorTanque(Double valorCombustivel){
         return capacidadeTanque * valorCombustivel;
     }
 }
