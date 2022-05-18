@@ -1,0 +1,21 @@
+Herança - Upcast e Downcast
+
+Upcast e Downcast
+
+Funcionario (classe mae)
+
+Classes filhas
+
+- Gerente
+- Vendedor
+- Faxineiro
+
+
+Upcast:
+
+JAVA
+A a = new B();
+
+
+Downcast
+B a = (B)new A();

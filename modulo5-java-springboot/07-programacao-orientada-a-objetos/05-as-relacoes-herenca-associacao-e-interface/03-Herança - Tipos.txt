@@ -1,0 +1,16 @@
+Herança - Tipos
+
+Tipos de Herança:
+
+- Simples
+- A classe filha tem só uma classe mãe.
+
+
+Múltipla
+- A classe filha tem uma ou mais classes mães.
+
+
+Java e c# não tem herança múltipla.
+
+
+
