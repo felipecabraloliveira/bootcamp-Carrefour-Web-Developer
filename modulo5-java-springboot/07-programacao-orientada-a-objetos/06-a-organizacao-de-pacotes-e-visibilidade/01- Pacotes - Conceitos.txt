@@ -1,0 +1,11 @@
+Pacotes - Conceitos
+
+"São uma organização física ou lógica criada para separar classes com responsabilidades distintas. Com isso, espera-se qua a aplicação fique mais organizada e seja possível separar classes de finalidades e representatividades diferentes."
+
+
+JAVA
+package ...;
+import  ...;
+
+
+

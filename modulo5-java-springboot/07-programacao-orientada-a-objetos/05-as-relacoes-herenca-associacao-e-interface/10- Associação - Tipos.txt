@@ -1,0 +1,68 @@
+Associação - Tipos
+
+Tipos:
+- Estrutural
+    - Composição: "Com Parte Todo"
+    - Ex. Pessoa e Endereço
+
+Codificação:
+
+JAVA
+class Pessoa{
+    Endereco endereco;
+}
+
+Agregação: "Sem Parte Todo"
+Ex. Disciplina e Aluno
+
+JAVA
+class Disciplina{
+    Aluno aluno;
+}
+
+
+
+Agregação x Composição
+
+- A escrita é igual, mas o coneceito é diferente.
+- O que muda vai ser o comportamento de cada um.
+
+
+
+
+Tipos:
+- Comportamental 
+     - Dependência: "Depende de"
+
+
+JAVA
+class Compra{
+    finalizar (Cupom cupom, ... ){
+     ...
+    }
+}
+
+
+Herança x Associação
+
+Herança é uma relação mais rigida, é definida no inicio e não muda mais.
+Associação é mais flexível, pode mudar durante a execução do software.
+
+Uma coisa é a outra(subtitulo) ?
+Usar Herança.
+
+Se não for ?
+Usar Associação.
+
+
+
+
+
+
+
+
+
+
+
+
+

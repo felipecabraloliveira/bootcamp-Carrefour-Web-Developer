@@ -1,0 +1,39 @@
+Objeto e Mensagem - Conceito
+
+"Um objeto é a representação de um conceito/entidade do mundo real, que pode ser física(bola, carro, árvore etc.) ou conceitual (viagem, estoque, compra etc) e possui um significado bem definido para um determinado software. Para esse conceito/entidade, deve ser definida inicialmente uma classe a partir da qual posteriormente serão instanciados objetos distintos." 
+
+
+Criação
+
+JAVA
+Carro carro - new Carro();
+- Solicitando a construção do objeto carro e armazenar na classe carro. 
+
+
+PYTHON
+carro = Carro()
+
+
+Mensagem
+
+"É o processo de ativação de um método de um objeto. Isto ocorre quando uma requisição (chamada) a esse método é realizada, assim disparando a execução de seu comportamento descrito por sua classe. Pode também ser direcionada diretamente à classe, caso a requisição seja a um método estático".
+
+JAVA
+Carro carro = new Carro();
+carro.<metodo>; // chama objeto
+
+Carro.<metodo>;
+
+
+
+
+
+Siga em frente.... Bom estudar esses tópicos:
+
+- Instância x Estático: atributos e métodos;
+- Estado de um Objeto
+- Identidade de um Objeto
+- Representação numérica de um objeto
+- Representação padrão de um objeto
+
+

@@ -1,0 +1,38 @@
+Visibilidades - Conceitos
+
+"Um modificador de acesso tem como finalidade determinar até que ponto uma classe, atributo ou método pode ser usado. A utilização de modificadores de acesso é fundamental para o uso efetivo da Orientação a Objetos. Algumas boas práticas e conceitos só são atingidos com o uso corretos deles."
+
+Tipos:
+ - Private
+ - Protected
+ - Public
+
+
+Private: Só dentro da Classe
+
+
+JAVA
+private
+
+private int i;
+private void do();
+
+
+Protected: Dentro da classe, mesmo pacote e subclasses
+
+protected
+
+protected int i;
+protected void do();
+
+
+Public: Em qualquer lugar
+public
+
+public int i;
+public void do();
+
+
+
+
+
