@@ -1,0 +1,59 @@
+O que é e quais problemas resolvem o Spring Boot
+
+
+Problemas do Spring
+
+- Configuração de beans em arquivo.xml
+
+- Dispatcher Servlet e view resolver em web.xml
+
+- Setup manual de Banco de Dados.
+
+- Muito tempo gasto em configuração.
+
+- Perda de foco e valor.
+
+
+O que é o Spring Boot?
+
+- Criado pela Spring Source wm 2012.
+
+- Facilita setup de projetos Spring.
+
+- Sem necessidade de criar arquivos de configuração.
+
+- Foco em produtividade.
+
+- Maior tempo no desenvolvimento de valor.
+
+
+Quais problemas resolve?
+
+- Produtividade: setup simplificado de projeto.
+
+- Starters: dependências auto configuráveis pelo Spring Boot.
+
+- Execução simplificada: sem deploy em servidor externo.
+
+- Configuração: arquivo externo para configuração.
+
+- Valor: maior tempo em desenvolvimento.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

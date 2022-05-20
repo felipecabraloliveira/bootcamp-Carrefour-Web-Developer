@@ -1,0 +1,44 @@
+Auto Configuration
+
+Antes do Spring Boot
+
+Muita coisa era feita manual, com muitos arquivos de configurações XML.
+
+
+- Multiplos Arquivos XML.
+
+- Configuração manual do Spring MVC: Dispatcher Servlet, web.xml, spring-mvc.xml.
+
+- Configuração manual dos beans Spring.
+
+- Aplicado também ao Spring Data, Spring Security, etc.
+
+
+
+AUTO Configuration
+
+Starters: dependências simplificadas e auto configuráveis.
+
+
+- Identificação e configuração automática da dependência.
+
+
+- Spring Boot detecta as dependências e configura para nós!!
+
+
+Projeto Simplificado e pronto para foco no valor!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

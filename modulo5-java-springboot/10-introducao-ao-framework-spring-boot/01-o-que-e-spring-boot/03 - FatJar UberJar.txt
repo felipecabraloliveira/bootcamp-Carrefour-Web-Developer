@@ -1,0 +1,23 @@
+FatJar UberJar
+
+Antes do Spring Boot
+
+Spring tradicional: war precisa de servidor de aplicação
+
+
+- Dependência de um container web ou servidor de aplicação.
+
+- Complexidade para configurações.
+
+- Atualizações frequentes, junto com a versão do projeto.
+
+- Gerencimento manual de configurações.
+
+
+FatJar / UberJar
+
+- Artefato do projeto pronto para execução.
+- Container web embutido na geração e execução (Tomcat).
+- Deploy embarcado com outros containers são opcionais.
+- Dependências principais do projeto embarcado.
+
